@@ -1,11 +1,31 @@
-## Kafka Installations 
+## Follow bellow step to run this application
 
-### Installations
-* npm install
-* import mongodb from mongoDB folder
+### Kafka Installations
+
+- Download Apache Kafka : [click me to download] (https://kafka.apache.org/downloads)
+- Setup it and run on local server
+
+### Application Download and Installations
+
+- Download application : [click me to download] (https://github.com/dhanjivpandey/kafka-notification.git)
+- Unzip it and install locally run bellow command
+- npm install
+
 ### Change in config file
-* change toemail in config file
-* change database name in config file
+
+- change config.json file as per your server configuration
+
 ### Run
-* in server.js line 47 you can set cron as per your time
-* npm run start
+
+- run - node index.js
+
+### APi call to run Application
+
+- URL - http://localhost:3000/pushnotification
+- Method - POST
+- Body - {
+  "id": 1,
+  "message": "this is api call push data"
+  }
+
+### Output running app on my local laptop
