@@ -1,0 +1,7 @@
+{
+  "kafkatopic": "notification-topic",
+  "brokers": "localhost:9092",
+  "producerClientId": "notification-producer",
+  "consumerClientId": "notification-consumer",
+  "consumergroupId": "notification-group"
+}
