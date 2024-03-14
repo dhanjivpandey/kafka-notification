@@ -29,3 +29,7 @@
   }
 
 ### Output running app on my local laptop
+![app-running-output](https://github.com/dhanjivpandey/kafka-notification/assets/4849451/b965e6d5-c300-4344-985a-a8cd0e74ab58)
+
+![postman call](https://github.com/dhanjivpandey/kafka-notification/assets/4849451/915a4c1f-d1a6-43ca-9579-66fdd7ccad96)
+
